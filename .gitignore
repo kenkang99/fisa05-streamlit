@@ -14,3 +14,4 @@
 
 # ! 를 파일명 앞에 써주시면 앞의 규칙((여기선 *.txt규칙에 대해)에서 제외라는 뜻입니다.
 !test.txt # test.txt는 무시하지말것
+!requirements.txt # test.txt는 무시하지말것
