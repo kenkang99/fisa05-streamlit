@@ -31,7 +31,7 @@ fig = px.bar(
 st.plotly_chart(fig, use_container_width=True)
 
 
-data = 'hello12'
+data = 'hello1'
 # 1. 버튼을 누르면 화면에 True 라고 코드를 리턴하는 간단한 동작 작성
 
 # 입력

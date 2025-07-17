@@ -10,8 +10,11 @@ img_list = ['https://i.imgur.com/t2ewhfH.png',
 
 image=st.text_input('text input')
 
-print(re.search(image,'짱구는못말려'))
+#print(re.search(image,'짱구는못말려'))
 
-print(re.findall(image,'짱구는못말려'))
+#print(re.findall(image,'짱구는못말려'))
+
+
 #if image:=st.text_input('text input') in ani_list:
 #    st.image('https://i.imgur.com/t2ewhfH.png')
+
